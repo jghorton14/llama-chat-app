@@ -2,7 +2,7 @@
 
 npm run build
 
-DIRECTORY=/Users/jhorton/Documents/Coding.nosync/llama.cpp/templates/
+DIRECTORY=/Users/$USER/Documents/Coding.nosync/llama.cpp/templates/
 
 rm -rf $DIRECTORY
 
